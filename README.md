@@ -20,10 +20,8 @@ Our project, "Detection of DDoS Attacks Using Machine Learning Algorithms," aims
 
 ## Project Structure
 
-- `data/`: Directory containing the dataset used for training and evaluation.
-- `scripts/`: Directory containing the scripts for data preprocessing, model training, and evaluation.
+- `data/`: The dataset used for training and evaluation.
 - `notebooks/`: Jupyter notebooks for exploratory data analysis and model development.
-- `results/`: Directory to store the results and evaluation metrics of the trained models.
 - `README.md`: This file, providing an overview of the project.
 
 ## Getting Started
